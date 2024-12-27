@@ -1,0 +1,59 @@
+
+
+
+2023-07-15 14:26:07,385:ERROR:__main__:Adding new entry to the dictionary {}
+Traceback (most recent call last):
+  File "/Users/denisstratiev/Documents/Work/Python/Training/logging_train.py", line 41, in to_dict
+    result[item] += 1
+KeyError: 'banana'
+2023-07-15 14:26:07,385:ERROR:__main__:Adding new entry to the dictionary {'banana': 1}
+Traceback (most recent call last):
+  File "/Users/denisstratiev/Documents/Work/Python/Training/logging_train.py", line 41, in to_dict
+    result[item] += 1
+KeyError: 'strawberry'
+2023-07-15 14:26:07,385:ERROR:__main__:Adding new entry to the dictionary {'banana': 1, 'strawberry': 1}
+Traceback (most recent call last):
+  File "/Users/denisstratiev/Documents/Work/Python/Training/logging_train.py", line 41, in to_dict
+    result[item] += 1
+KeyError: 'cherry'
+2023-07-15 14:26:07,385:DEBUG:__main__:Dictionary: {'banana': 2, 'strawberry': 1, 'cherry': 1}
+
+
+
+2023-07-15 14:26:35,137:DEBUG:__main__:0
+2023-07-15 14:26:38,143:DEBUG:__main__:1
+2023-07-15 14:26:41,147:DEBUG:__main__:2
+2023-07-15 14:26:44,153:DEBUG:__main__:3
+
+
+
+2023-07-15 14:26:56,638:ERROR:__main__:Adding new entry to the dictionary {}
+Traceback (most recent call last):
+  File "/Users/denisstratiev/Documents/Work/Python/Training/logging_train.py", line 41, in to_dict
+    result[item] += 1
+KeyError: 'banana'
+2023-07-15 14:26:56,639:ERROR:__main__:Adding new entry to the dictionary {'banana': 1}
+Traceback (most recent call last):
+  File "/Users/denisstratiev/Documents/Work/Python/Training/logging_train.py", line 41, in to_dict
+    result[item] += 1
+KeyError: 'strawberry'
+2023-07-15 14:26:56,639:ERROR:__main__:Adding new entry to the dictionary {'banana': 1, 'strawberry': 1}
+Traceback (most recent call last):
+  File "/Users/denisstratiev/Documents/Work/Python/Training/logging_train.py", line 41, in to_dict
+    result[item] += 1
+KeyError: 'cherry'
+2023-07-15 14:26:56,639:DEBUG:__main__:Dictionary: {'banana': 2, 'strawberry': 1, 'cherry': 1}
+
+
+
+2023-07-15 14:27:40,612:DEBUG:__main__:0
+2023-07-15 14:27:43,615:DEBUG:__main__:1
+2023-07-15 14:27:46,620:DEBUG:__main__:2
+2023-07-15 14:27:49,626:DEBUG:__main__:3
+
+
+
+2023-09-04 11:43:13,887:DEBUG:__main__:0
+2023-09-04 11:43:16,893:DEBUG:__main__:1
+2023-09-04 11:43:19,899:DEBUG:__main__:2
+2023-09-04 11:43:22,905:DEBUG:__main__:3
